@@ -2,7 +2,7 @@
 
 Poopcode is a replacement for the original icon of Xcode. It reflects the feeling of the developers when working with Xcode.
 
-![](Preview.png)
+![](preview.png)
 
 ## Installation
 
