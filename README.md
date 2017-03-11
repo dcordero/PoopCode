@@ -12,7 +12,7 @@ Override the icon of your Xcode installation with the one included in this repo.
 
 ```
 $ git clone https://github.com/dcordero/PoopCode.git
-$ cp PoopCode/Xcode.icns /Applications/Xcode.app/Contents/Resources/Xcode.icns
+$ cp PoopCode/PoopCode.icns /Applications/Xcode.app/Contents/Resources/Xcode.icns
 ```
 
 Too force macOS to refresh the cached icons
