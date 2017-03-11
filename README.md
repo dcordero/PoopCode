@@ -15,7 +15,7 @@ $ git clone https://github.com/dcordero/PoopCode.git
 $ cp PoopCode/Xcode.icns /Applications/Xcode.app/Contents/Resources/Xcode.icns
 ```
 
-Too make macOS to refresh the cached icons
+Too force macOS to refresh the cached icons
 
 ```
 touch /Applications/Xcode.app
