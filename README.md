@@ -12,7 +12,7 @@ Poopcode is a replacement for the original icon of Xcode. It reflects the feelin
 $ cp /Applications/Xcode.app/Contents/Resources/Xcode.icns ~/wherever/you/want
 ```
 
-To to use the new icon just override the icon of your Xcode installation with the one included in this repo.
+To use the new icon just override the icon of your Xcode installation with the one included in this repo.
 
 ```
 $ git clone https://github.com/dcordero/PoopCode.git
